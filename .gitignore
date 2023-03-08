@@ -1,0 +1,7 @@
+# General things
+*venv*
+.idea
+.vscode
+
+# Python things
+__pycache__
